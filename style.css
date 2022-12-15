@@ -1,0 +1,175 @@
+body{
+    font-family: 'Kufam', sans-serif;
+    background-color:#141619;
+}
+
+.contenedor-principal{
+    display: flex ;
+    flex-direction: row;
+    margin: 50px 50px;
+}
+
+.lateral-izquierdo{
+    background-color: #898b91;
+    border-style: solid;
+    border-color: #E2BE8E;
+    border-width: 0.5px;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+
+img{
+    box-shadow: 3px 2px 5px 1px #141619;
+    width: 236px;
+    border-radius: 45%;
+    border-style: solid;
+    border-color: #E2BE8E;
+    border-width: 0.5px;
+    padding-top: 25px;
+    padding: 0px;
+    margin: 0px;
+}
+
+table{
+    margin: 5px;
+    margin-top: 30px;
+    border-style: solid;
+    border-color: #E2BE8E;
+    text-shadow: 2px 2px 6px #141619;
+}
+
+.PRO{
+    color:#4267CD;
+    font-weight: 600;
+}
+
+.empresas{
+    color: rgb(247, 160, 0);
+    font-weight: 600;
+    text-shadow: 8px 5px 8px rgb(116, 67, 3);
+}
+
+.contacto{
+    margin-left: 13px;
+    margin-right: 0px;
+    margin-bottom: 20px;
+}
+
+.datos-de-contacto{
+    color: whitesmoke;
+    text-shadow: 2px 2px 4px #141619;
+}
+
+.letras-de-tabla{
+    color: whitesmoke;
+    text-shadow: 2px 2px 4px #141619;
+}
+
+.links{
+    color: #E2BE8E;
+    text-shadow: 2px 2px 4px #141619;
+}
+
+h4{
+    margin-left: 20px;
+    color: whitesmoke;
+    text-shadow: 2px 2px 4px #E2BE8E;
+}
+.li-izquierda{
+    color:#E2BE8E;
+}
+
+.p-soft-skills{
+    color: whitesmoke;
+    text-shadow: 2px 2px 4px #141619;
+}
+
+.soft-skills{
+    margin-top: 60px;
+    margin-right: 3px;
+}
+/*Lateral derecho*/
+
+.nombre{
+    color:#141619;
+}
+
+.informacion-lateral-derecho{
+    margin: 40px;
+}
+
+.listas-ordenadas, .listas-desordenadas{
+    padding: 20px;
+}
+
+.p-empresas-educacion{
+    color:#3b4350;
+    font-weight: 600;
+}
+
+.titulos{
+    color:#E2BE8E;
+}
+
+h3{
+   text-shadow: 5px 5px 8px #141619;
+    
+}
+
+.lateral-derecho{
+    background-color: rgb(240, 237, 243);
+    width: 600px;
+    border-style: solid;
+    border-color: #E2BE8E;
+    border-width: 0.5px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+.imput-contactar{
+     margin: 40px;
+}
+
+#Nombres{
+    width: 110px;
+}
+
+#Apellidos{
+    margin-top: 5px;
+    width: 109px;
+}
+
+#Email{
+    margin-bottom: 5px;
+    margin-top: 5px;
+    width: 136px;
+}
+
+.texto-del-form{
+    color: #E2BE8E;
+}
+
+form{
+    background: #000000;
+    text-align:center;
+    padding: 10px 10px 10px 10px;
+    width: 200px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px 2px #141619;
+    display: inline-block;
+    
+}
+
+button{
+    margin-top: 10px;
+    background-color: #141619;
+    color: #E2BE8E;
+    border: none ;
+    border-radius: 4px;
+}
+
+button:hover{
+    background-color:#E2BE8E;
+    color:#141619;
+}
+
